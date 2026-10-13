@@ -1,0 +1,2 @@
+# QuackLauncher
+Quack Launcher app
