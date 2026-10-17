@@ -1,5 +1,5 @@
 
-[⬇️СКАЧАТЬ ⭐QuackLaucnher⭐](https://github.com/sergeevalx92-png/QuackLauncher/releases/download/1/QuackLauncher.apk)
+[⬇️СКАЧАТЬ ⭐QuackLaunсher⭐](https://github.com/sergeevalx92-png/QuackLauncher/releases/download/1/QuackLauncher.apk)
 
 📥 Установка из гарнитуры: прямо в шлеме (без ПК)
 
